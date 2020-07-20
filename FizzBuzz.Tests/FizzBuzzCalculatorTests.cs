@@ -1,6 +1,5 @@
 using FizzBuzz.Source;
 using FluentAssertions;
-using System.Runtime.InteropServices.ComTypes;
 using Xunit;
 
 namespace FizzBuzz.Tests

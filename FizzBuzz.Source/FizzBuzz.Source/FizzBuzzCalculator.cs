@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FizzBuzz.Source
+﻿namespace FizzBuzz.Source
 {
     public class FizzBuzzCalculator
     {
